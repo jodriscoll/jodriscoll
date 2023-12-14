@@ -6,7 +6,7 @@ let jodriscoll = {
   jobTitle: "Web Developer",
   yearsExperience: "15+ years",
   shortTagline: "Web developer with a deep appreciation for Front-End technologies",
-  location: "Pinellas Park, Florida",
+  location: "Florida, USA",
   proudOf: "Owner of a 6 year old mini-dachshund",
   proudOfLink: "https://www.instagram.com/theodorable_dachshund/",
   employmentSearch: always
