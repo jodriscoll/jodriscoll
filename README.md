@@ -3,7 +3,7 @@
 ```js
 let jodriscoll = {
   fullName: "Joseph O’Driscoll",
-  jobTitle: "Web Front-End Developer",
+  jobTitle: "Web Developer",
   yearsExperience: "15+ years",
   shortTagline: "Web developer with a deep appreciation for Front-End technologies",
   location: "Pinellas Park, Florida",
