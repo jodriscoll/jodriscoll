@@ -4,15 +4,16 @@
 let jodriscoll = {
   fullName: "Joseph O’Driscoll",
   jobTitle: "Web Front-End Developer",
-  yearsExperience: "10+ years",
+  yearsExperience: "15+ years",
   shortTagline: "Web developer with a deep appreciation for Front-End technologies",
   location: "Pinellas Park, Florida",
-  proudOf: "Owner of a 5 year old mini-dachshund",
-  employmentSearch: true
+  proudOf: "Owner of a 6 year old mini-dachshund",
+  proudOfLink: "https://www.instagram.com/theodorable_dachshund/",
+  employmentSearch: always
 };
 
 if (jodriscoll.employmentSearch) {
-  alert("Let’s talk about collaborating!")
+  alert("Let's talk about collaborating!")
 }
 ```
 
