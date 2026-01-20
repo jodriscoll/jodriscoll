@@ -8,7 +8,7 @@ let jodriscoll = {
   shortTagline: "Web developer with a deep appreciation for Front-End technologies",
   location: "Florida, USA",
   proudOf: "Mini-dachshund named Theodore",
-  proudOfLink: "https://www.instagram.com/theodorable_dachshund/",
+  proudOfLink: "theodorable.me",
   employmentSearch: always
 };
 
